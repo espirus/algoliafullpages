@@ -1,0 +1,2 @@
+# algoliafullpages
+Created with CodeSandbox
